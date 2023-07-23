@@ -40,6 +40,8 @@ Protected branches ensure that collaborators on your repository cannot make irre
 
 <!-- Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step. -->
 
+![example branch parameter.](https://github.com/abincherish/skills-test-with-actions/blob/main/.github/workflows/ci.yml/badge.svg?branch=main)
+
 <footer>
 
 <!--
